@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indumentaria", "Indumentaria\Indumentaria.csproj", "{60BDC8B8-4433-437B-9D3D-3CCA12B3E2C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indumentaria.Consola", "Indumentaria\Indumentaria.Consola.csproj", "{60BDC8B8-4433-437B-9D3D-3CCA12B3E2C6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indumentaria.Libreria", "Indumentaria.Libreria\Indumentaria.Libreria.csproj", "{CB4EBA7D-C858-4EA3-B5BF-18B446E5896D}"
 EndProject

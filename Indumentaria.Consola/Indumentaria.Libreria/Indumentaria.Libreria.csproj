@@ -41,23 +41,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entidades\Indumentaria\Camisa.cs" />
+    <Compile Include="Entidades\HijosIndumentaria\Camisa.cs" />
     <Compile Include="Entidades\Cliente.cs" />
     <Compile Include="Entidades\Indumentaria.cs" />
-    <Compile Include="Entidades\Indumentaria\Pantalon.cs" />
+    <Compile Include="Entidades\HijosIndumentaria\Pantalon.cs" />
     <Compile Include="Entidades\TiendaRopa.cs" />
     <Compile Include="Entidades\TipoIndumentaria.cs" />
-    <Compile Include="Entidades\TipoIndumentaria\IndumentariaCasual.cs" />
-    <Compile Include="Entidades\TipoIndumentaria\IndumentariaDeportiva.cs" />
-    <Compile Include="Entidades\TipoIndumentaria\IndumentariaFormal.cs" />
+    <Compile Include="Entidades\HijosTiposInd\IndumentariaCasual.cs" />
+    <Compile Include="Entidades\HijosTiposInd\IndumentariaDeportiva.cs" />
+    <Compile Include="Entidades\HijosTiposInd\IndumentariaFormal.cs" />
     <Compile Include="Entidades\Venta.cs" />
     <Compile Include="Entidades\VentaItem.cs" />
+    <Compile Include="Exceptions\CodigoExistenteException.cs" />
+    <Compile Include="Exceptions\SinStockException.cs" />
     <Compile Include="Helpers\Menu.cs" />
     <Compile Include="Helpers\Validador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Exceptions\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

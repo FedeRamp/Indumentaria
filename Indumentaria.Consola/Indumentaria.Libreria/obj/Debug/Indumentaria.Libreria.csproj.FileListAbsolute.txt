@@ -1,0 +1,2 @@
+C:\Users\Fede\Documents\GitHub\Indumentaria\Indumentaria.Consola\Indumentaria.Libreria\obj\Debug\Indumentaria.Libreria.csprojAssemblyReference.cache
+C:\Users\Fede\Documents\GitHub\Indumentaria\Indumentaria.Consola\Indumentaria.Libreria\obj\Debug\Indumentaria.Libreria.csproj.CoreCompileInputs.cache

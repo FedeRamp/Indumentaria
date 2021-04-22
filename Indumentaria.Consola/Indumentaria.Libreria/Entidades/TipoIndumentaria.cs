@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Indumentaria.Libreria.Entidades
 {
-    class TipoIndumentaria
+    public abstract class TipoIndumentaria
     {
+        protected string origen;
+        protected double porcentajeAlgodon;
+
     }
 }
